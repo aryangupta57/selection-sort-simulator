@@ -4,4 +4,4 @@ A simple application with purpose to visualize and demonstrate how the selection
 - Python3
 - Tkinter
 #
-<img  src="snap.png"/>
+![Sorting Simulator](https://github.com/aryangupta57/selection-sort-simulator/assets/133975847/7e905127-78ae-44ef-84d9-06520a6a49b7)
